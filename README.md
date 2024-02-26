@@ -1,5 +1,5 @@
 ### ts01
-The data interface when using ts01 board ver.6  
+The data interface when using ts01 board ver.7 
 ### initialization
 
 ### Analog Input
